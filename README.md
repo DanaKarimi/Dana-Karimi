@@ -5,4 +5,4 @@ As a passionate junior student studying software development, I’m excited to b
 - Databases: MySQL, Sqlite3
 - Tools: Git, Vscode, Pycharm, Docker
 - OS: Linux, Windows
-- Github : https://github.com/DanaKarimi
+
